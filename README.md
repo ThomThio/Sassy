@@ -1,7 +1,6 @@
 # Sassy
-The sexy way to connect to SAS Viya from your own computer
+The sexy way to connect to SAS Viya from your own computer!
 
-For inquiries, do drop me an email at thomas.thio@hotmail.com
 
 
 
