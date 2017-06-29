@@ -1,0 +1,36 @@
+1. Network Analysis
+	API: LogisticsNetworkAnalysis
+
+	What: Strategic analysis of logistical networks is designed to reduce costs, increase client service levels, and maximize profits. To achieve these goals, strategic decision making must be balanced between procurement, production, inventory management, and transportation.
+
+	Why: Logistical network analysis is fundamentally aimed at determining the number of production sites, warehouses, and depots. It is also used to develop scenarios for assigning not only a capacity to each of these sites, but also an optimal geographic location in view of specific network constraints.
+
+	From both a local and global perspective, logistical network analysis is aimed at determining supply sources, production volumes, and inventory levels for each site being studied. As this pertains to transportation, logistical network analysis is used to weigh the merits of various transportation modes.  It is also used to develop a transportation plan with a view to determining the most suitable modes for each segment of the network.
+
+
+	Data:
+	c2k_data.xlsx
+	c2k_attributes.xlsx
+
+	Given the need to jointly optimize various logistical aspects, such as production levels, inventory levels, and supply sources, adopting a systemic methodology is essential to the success of such a project. It is very important that data be collected concerning the current network (site location, node typologies), products (nomenclature, weight and volume), constraints (client demand, production capacity, delivery lead times, service levels, etc.), network costs (facilities, storage, production, transportation, etc.), and the transportation modes utilized.
+
+	Operational Considerations:
+	Determine distribution strategy
+	The distribution strategy is used to determine the service level sought by the organization in response to demand in various markets. This strategy also stands at the forefront of considerations concerning the desired network transportation structure.
+
+	Determine scenarios
+	Determining scenarios forms the central pillar of strategic analysis. By varying site locations, network structures, client demand levels, and service levels, an array of scenarios can be developed to model a large number of situations with a reasonable likelihood of occurring. For example, you can determine the impacts of soaring client demand on network costs, significantly increasing service levels in certain regions or delocalizing your production activities.
+
+	Evaluate scenarios and select one
+	Once various scenarios have been established, they should be evaluated. To this end, you should develop an evaluation scale, including parameters to be considered and appropriate weighting factors. Once the criteria have been established and the scenarios have been evaluated, you can decide which scenario is most suitable—this will be the future logistical network.
+
+	Implement scenario
+	Implementing the scenario requires meticulous planning, not only in structural terms, but also in terms of change management and training, two intangibles that remain a key component of project success.
+
+	Evaluate performance
+	After the scenario has been implemented, performance evaluation is used to provide the feedback required for project analysis. Evaluating financial factors (effective cost of the new network) or client service factors (delivery lead times, inventory outs, etc.) facilitates competitive benchmarking and ensures continuous improvements in our logistical network.
+
+
+	Benefit: From a perspective of globalized supply chain management, logistical network analysis—thanks to the role it plays in reducing costs and improving client service—is likely to be a major source of competitive advantages.
+
+	Source:http://www.industryandbusiness.ca/insight/performing-a-logistical-network-analysis
