@@ -1,3 +1,15 @@
+#!/usr/bin/env python
+#title           :DataHandler.py
+#description     :HTTP request/response layer
+#author          :Thomas Thio
+#date            :20170608
+#version         :1.4
+#usage           :gunicorn --reload -b 10.21.22.92:8888 Sassy:app
+#notes           :
+#python_version  :3.6.0  
+#==============================================================================
+
+
 import json
 import traceback
 
